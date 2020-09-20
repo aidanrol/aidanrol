@@ -3,8 +3,8 @@
 ### Heres some info about me:
 
 - 🔭 I’m currently working on OSable 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Web Development
 
 ### Want to find out more?
-- 📫 Contact me via email: aidanrolfe@outlook.com
+
 
