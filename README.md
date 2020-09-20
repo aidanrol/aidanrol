@@ -5,6 +5,4 @@
 - 🔭 I’m currently working on OSable 
 - 🌱 I’m currently learning Web Development
 
-### Want to find out more?
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aidanrol&show_icons=true)
